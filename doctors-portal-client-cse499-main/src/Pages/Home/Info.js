@@ -14,5 +14,4 @@ const info = () => {
         </div>
     );
 };
-
 export default info;
