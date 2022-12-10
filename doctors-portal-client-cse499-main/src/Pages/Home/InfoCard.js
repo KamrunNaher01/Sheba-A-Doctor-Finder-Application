@@ -16,5 +16,4 @@ const InfoCard = ({img, cardTitle, bgClass, text}) => {
         </div>
     );
 };
-
 export default InfoCard;
