@@ -35,7 +35,6 @@ const SignUp = () => {
         navigate("/appointment");
     }
     
-    
 
     let signInError;
     if(gError || error || updateError){
